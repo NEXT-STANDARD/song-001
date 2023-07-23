@@ -1,6 +1,6 @@
 # 楽曲情報
 タイトル：バカバカしくて草  
-作詞：ChatGPT-4  
+作詞：ChatGPT-4 / Kirishima Phoenix(アシスタント)  
 作曲：Kirishima Phoenix  
 
  ## 背景
